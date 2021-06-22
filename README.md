@@ -1,9 +1,17 @@
-# arkShellGenome
-Scripts used in chromosome-level genome assembly of __ark shell__
+# Description
+
+## About
+
+Ark shells are commercially important clam species that inhabit in muddy sediments of shallow coasts in East Asia. For a long time, the lack of genome resources has hindered scientific research of ark shells. Here, we reported a high-quality chromosome-level genome assembly of Scapharca kagoshimensis, with an aim to unravel the molecular basis of heme biosynthesis, and develop genomic resources for genetic breeding and population genetics in ark shells.
+
+This repo contains the scripts used in the research. Check the article and see more information about this research.
+
+## References
+
+'Chromosome-level genome assembly of __Scapharca kagoshimensis__ reveals the expanded molecular basis of heme biosynthesis in ark shell' (Accepted)
 
 ----------
 # Scripts
-
 
 ## filter_cover.py
 
@@ -66,5 +74,3 @@ Usage:
 
 ----------
 
-# refernece
-Chromosome-level genome assembly of _Scapharca kagoshimensis_ reveals the expanded molecular basis of heme biosynthesis in ark shell
